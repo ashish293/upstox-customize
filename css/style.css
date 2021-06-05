@@ -1,0 +1,45 @@
+:root {
+	--col1: #dfe6e9;
+	--col2: #2d3436;
+	--col3: #e17055;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.container {
+	background: var(--col1);
+	position: relative;
+	height: 100vh;
+	width: 100vw;
+	padding: 3rem;
+}
+.box {
+	border: 10px solid var(--col2);
+	border-radius: 4px;
+	height: 100%;
+	width: 100%;
+	background-color: var(--col3);
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+	flex-direction: column;
+}
+
+.code-box {
+	background: var(--col1);
+	font-family: monospace;
+	font-size: 1.2rem;
+	padding: 12px;
+	border-radius: 10px;
+}
+.btn-wrapper {
+	text-align: end;
+}
+.btn {
+	font-family: serif;
+	padding: 8px 15px;
+	font-size: 1rem;
+	border-radius: 5px;
+}
