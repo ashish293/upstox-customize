@@ -1,5 +1,15 @@
 # upstox-customize
 This page containing code to customize and better view for upstox
+## Steps
+- Copy the code
+- Install plugin
+- paste code to plugin
+- Refresh the page to default view
+
+## Plugin options
+- You can pin so that you doesn't need to click every time on plugin
+- There is also a button to deactivate the code in plugin.
+
 <h2>Link- <a href="https://ashish293.github.io/upstox-customize/">click</a></h2>
 <br><br>
 <h2>Live Editor Plugin</h2>
