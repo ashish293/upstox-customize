@@ -1,5 +1,5 @@
 # upstox-customize
-This page containing code to customize view for upstox
+This page containing code to customize and better view for upstox
 <h2>Link- <a href="https://ashish293.github.io/upstox-customize/">click</a></h2>
 <br><br>
 <h2>Live Editor Plugin</h2>
